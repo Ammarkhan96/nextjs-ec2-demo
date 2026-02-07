@@ -5,6 +5,7 @@ export default function Home() {
     <main style={{ padding: "40px" }}>
       <h1>Next.js CI/CD Demo 🚀</h1>
       <p>Auto deployed using GitHub Actions</p>
+      <p>Time: {new Date().toLocaleString()}</p>
     </main>
   );
 }
