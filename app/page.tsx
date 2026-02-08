@@ -7,6 +7,7 @@ export default function Home() {
       <p>Auto deployed using GitHub Actions</p>
       <p>This is the demo Deployment through EC2 instance....</p>
       <p>EC2 Github Action</p>
+      <h3>Thank you for deployment</h3>
     </main>
   );
 }
